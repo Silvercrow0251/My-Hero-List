@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHeroes App</string>
+    <string-array name="superHeroArray">
+        <item>All Might</item>
+        <item>Endeavor</item>
+        <item>Best Jeanist</item>
+        <item>Eraser Head</item>
+        <item>Midnight</item>
+        <item>Gran Torino</item>
+        <item>Hawks</item>
+        <item>Clementos</item>
+    </string-array>
+</resources>
